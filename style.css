@@ -3,7 +3,10 @@
 }
 .main{
     color: white;
-    
+     background-image: url(b2.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 body::-webkit-scrollbar{
     display: none;
